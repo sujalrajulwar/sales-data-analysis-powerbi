@@ -32,14 +32,14 @@ To analyze sales data and build an interactive dashboard that answers key busine
 
 ## 📊 Dashboard Preview
 
-### 🔹 Product Performance
-![Products](assets/images/products.png)
+### 🔹 Overview Dashboard
+![Overview](assets/overview.png)
 
-### 🔹 Sales Trends
-![Trends](assets/images/trends.png)
+### 🔹 Product Performance (Top/Bottom Analysis)
+![Product Performance](assets/top%20or%20bottom%205%20analysis.png)
 
-### 🔹 City-wise Sales
-![City](assets/images/city_sales.png)
+### 🔹 Sales Trend & Comparison
+![Sales Trend](assets/comparision.png)
 
 ---
 
