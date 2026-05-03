@@ -1,32 +1,40 @@
 # 📊 Sales Data Analysis (Power BI)
 
-A business dashboard project analyzing sales performance, product trends, and customer behavior based on predefined business requirements.
+## 📌 Project Overview
+
+This project analyzes retail sales data to uncover revenue trends, product performance, and regional sales patterns. The goal is to identify high-performing products, detect underperforming segments, and support data-driven business decisions using interactive Power BI dashboards.
+
 
 ---
 
-## 📌 Project Objective
+## 🚀 Project Highlights
 
-To analyze sales data and build an interactive dashboard that answers key business questions related to product performance, trends, and regional sales.
-
----
-
-## 📋 Business Requirements
-
-- Identify Top/Bottom 5 products by Sales, Profit, and Quantity  
-- Analyze sales trends over time (daily, monthly, yearly)  
-- Understand relationship between sales and profit  
-- Compare performance between different time periods  
-- Evaluate average discount by category  
-- Analyze sales across cities  
-- Provide detailed order-level insights with filters  
+* Built an interactive sales analysis dashboard using Power BI
+* Identified top-performing products contributing the highest revenue
+* Detected underperforming products with low sales and profit margins
+* Analyzed sales trends over time to track growth patterns
+* Compared profit vs sales to evaluate business efficiency
+* Segmented performance by city to identify regional opportunities
 
 ---
 
-## ⚙️ Tools Used
+## 📊 Key Insights
 
-- Power BI  
-- Power Query  
-- DAX  
+* Top-performing products contribute a disproportionate share of total revenue, indicating strong product concentration
+* Several products show consistently low performance and may require review or discontinuation
+* Sales show steady growth trends with periodic spikes during specific time periods
+* Strong correlation observed between profit and sales, indicating stable pricing strategy
+* Certain cities contribute disproportionately to total sales, highlighting key target markets
+
+
+---
+
+## ⚙️ Tech Stack
+
+* **Power BI** – Dashboard development and interactive visualization
+* **Power Query** – Data cleaning and transformation
+* **DAX (Data Analysis Expressions)** – KPI calculations and business metrics
+* **Excel Dataset** – Source data for sales analysis
 
 ---
 
@@ -43,12 +51,13 @@ To analyze sales data and build an interactive dashboard that answers key busine
 
 ---
 
-## 📈 Key Insights
+## 🎯 Key Questions Answered
 
-- Certain product categories consistently drive higher sales and profit  
-- Seasonal patterns influence sales trends  
-- Discounts impact profitability significantly  
-- Sales distribution varies across cities  
+* Which products generate the highest and lowest revenue?
+* How do sales trends change over time?
+* What is the relationship between sales and profit?
+* Which cities contribute the most to overall sales?
+* Where can the business optimize performance and reduce losses?
 
 ---
 
